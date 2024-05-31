@@ -1,4 +1,4 @@
-![Logo](https://github.com/Arbetsgrup-inom-Programmering-i-Eclipse/AriaInterface/blob/master/AriaInterface.png)
+<img src="https://github.com/Arbetsgrup-inom-Programmering-i-Eclipse/AriaInterface/blob/master/AriaInterface.png" width="65">
 
 # Användning
 
