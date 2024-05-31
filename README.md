@@ -1,8 +1,8 @@
-![Logo](https://git.vgregion.se/tsf/AriaInterface/-/raw/master/AriaInterface.ico)
+![Logo](https://github.com/Arbetsgrup-inom-Programmering-i-Eclipse/AriaInterface/blob/master/AriaInterface.png)
 
 # Användning
 
-Lägg till [`AriaInterface.cs`](https://git.vgregion.se/tsf/AriaInterface/-/raw/master/AriaInterface.cs) i ditt projekt. Använd sedan klassen för att ställa SQL-frågor mot Ariadatabasen enligt nedan.
+Lägg till `AriaInterface.cs` i ditt projekt. Använd sedan klassen för att ställa SQL-frågor mot Ariadatabasen enligt nedan.
 Detta repository innehåller även en WinForms-applikation som använder `AriaInterface.cs` för att ställa godtyckliga SQL-frågor till valfri Ariadatabas.
 
 # Exempel
